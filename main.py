@@ -14,6 +14,9 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 
-#maybe seX?
+#maybe seX? 23
+
+def f(x):
+    return x
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
